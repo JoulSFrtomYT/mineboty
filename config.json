@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "DonSCraftSMP.aternos.me",
+ "port": "36859",
+ "name": "BOT",
  "auto-night-skip": "false",
- "token": "Your_discord_bot_token_here",
- "channelid": "Your_discord_server_channel_id_here",
- "loginmsg": "Your_Login_message_here"
+ "token": "OTAyMDc1ODg0NjA4MDYxNDQz.YXZJog.ry7f4FfxVl6ywAI8I0fh3H5020Y",
+ "channelid": "905369161591570447",
+ "loginmsg": "Hi HEHE Wab u"
 }
